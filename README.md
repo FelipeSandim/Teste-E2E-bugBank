@@ -1,7 +1,7 @@
 **Teste de Interface no BugBank com Selenium e Java**
 
 Objetivo:
-Realizei testes na interface do BugBank utilizando Selenium e Java.
+Testes na interface do BugBank utilizando Selenium e Java.
 
 Passos do Teste:
 
@@ -20,4 +20,4 @@ Teste de transferencia, apesar de não ter banco de dados foi criado um método 
 Teste de extrato.
 
 
-**Esse software foi criado exatamente para treinamento de frameworks de teste e trinamento de testes exploratórios.**
+**Esse software foi criado exatamente para treinamento de frameworks de teste e trinamento de testes automatizados e exploratórios.**
