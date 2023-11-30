@@ -1,10 +1,7 @@
-
-Entendido, vou criar uma versão mais concisa e no singular:
-
-Teste de Interface no BugBank com Selenium e Java
+**Teste de Interface no BugBank com Selenium e Java**
 
 Objetivo:
-Realizei um teste abrangente na interface do BugBank utilizando Selenium e Java para garantir a integridade e o desempenho do site.
+Realizei testes na interface do BugBank utilizando Selenium e Java.
 
 Passos do Teste:
 
