@@ -19,5 +19,15 @@ Teste de transferencia, apesar de não ter banco de dados foi criado um método 
 
 Teste de extrato.
 
+**NOS TESTES FORAM USADOS:**
+
+Pages e Objects
+
+Emcapsulamentos
+
+Orientação a Objetos
+
+Teste Parametrizado
+
 
 **Esse software foi criado exatamente para treinamento de frameworks de teste e trinamento de testes automatizados e exploratórios.**
